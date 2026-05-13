@@ -1,0 +1,1299 @@
+{
+  "schemaVersion": 2,
+  "updated": "2026-05-13",
+  "note": "公文書開示請求等により入手・整理したPTA関連資料を、サイト内で資料名・地域・学校名・論点候補から探せる公開用目録です。タグは資料名からの仮分類であり、本文引用時はPDF本文・開示決定文書・公開範囲を確認してください。 / 埼玉県県立学校関係PDF20件について、Google Drive参照に加え、サイト内PDF本体を配置済み。",
+  "items": [
+    {
+      "id": "folder-1j24hQdevlI_QO1IP3Uuxlb-DgKFb10vl",
+      "title": "神奈川県私費会計等",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "神奈川県",
+      "municipality": "神奈川県私費会計等",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1j24hQdevlI_QO1IP3Uuxlb-DgKFb10vl",
+      "preview": "",
+      "tags": [
+        "会費・私費"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1j24hQdevlI_QO1IP3Uuxlb-DgKFb10vl.html"
+    },
+    {
+      "id": "folder-1h_RDXwmAAcbIdMOEXapT68yzYPCyFGbv",
+      "title": "いわき市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "福島県",
+      "municipality": "いわき市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1h_RDXwmAAcbIdMOEXapT68yzYPCyFGbv",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1h_RDXwmAAcbIdMOEXapT68yzYPCyFGbv.html"
+    },
+    {
+      "id": "folder-1-SkbJV8EJrZfYjujquYi54XFQ8yjIur7",
+      "title": "茨木市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "大阪府",
+      "municipality": "茨木市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1-SkbJV8EJrZfYjujquYi54XFQ8yjIur7",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1-SkbJV8EJrZfYjujquYi54XFQ8yjIur7.html"
+    },
+    {
+      "id": "folder-14wFrcz-V4IzyNAlXmDvZQ3TKo5MH68bU",
+      "title": "大東市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "大阪府",
+      "municipality": "大東市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/14wFrcz-V4IzyNAlXmDvZQ3TKo5MH68bU",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-14wFrcz-V4IzyNAlXmDvZQ3TKo5MH68bU.html"
+    },
+    {
+      "id": "folder-14reYe8MzLudXIiNRTRDD8q3BD08GWt4q",
+      "title": "彦根市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "滋賀県",
+      "municipality": "彦根市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/14reYe8MzLudXIiNRTRDD8q3BD08GWt4q",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-14reYe8MzLudXIiNRTRDD8q3BD08GWt4q.html"
+    },
+    {
+      "id": "folder-17SAZUYX6HqDBVmUmOplBWha1nbjNf1sq",
+      "title": "川口市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "埼玉県",
+      "municipality": "川口市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/17SAZUYX6HqDBVmUmOplBWha1nbjNf1sq",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-17SAZUYX6HqDBVmUmOplBWha1nbjNf1sq.html"
+    },
+    {
+      "id": "folder-1CIrU8d-VVss8D-A7J-Gz6a7R-Losxs9R",
+      "title": "久喜市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1CIrU8d-VVss8D-A7J-Gz6a7R-Losxs9R",
+      "preview": "",
+      "tags": [
+        "学校別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1CIrU8d-VVss8D-A7J-Gz6a7R-Losxs9R.html"
+    },
+    {
+      "id": "folder-1aySZ1Apku8NJni2zRX0R0Oh26ubmDowg",
+      "title": "神奈川県",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "神奈川県",
+      "municipality": "神奈川県",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1aySZ1Apku8NJni2zRX0R0Oh26ubmDowg",
+      "preview": "",
+      "tags": [
+        "県資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1aySZ1Apku8NJni2zRX0R0Oh26ubmDowg.html"
+    },
+    {
+      "id": "folder-1tBkWaC4-cI4tNloXaT6TKCrTnebhs0re",
+      "title": "埼玉県",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1tBkWaC4-cI4tNloXaT6TKCrTnebhs0re",
+      "preview": "",
+      "tags": [
+        "県立学校資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1tBkWaC4-cI4tNloXaT6TKCrTnebhs0re.html"
+    },
+    {
+      "id": "folder-1wgrV4z-Kl09hylYoR74ymz1ZwL48XlGZ",
+      "title": "射水市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "富山県",
+      "municipality": "射水市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1wgrV4z-Kl09hylYoR74ymz1ZwL48XlGZ",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1wgrV4z-Kl09hylYoR74ymz1ZwL48XlGZ.html"
+    },
+    {
+      "id": "folder-11Yzp9-Yzl930evcg7KxOHuw_jt0H-G8v",
+      "title": "亀岡市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "京都府",
+      "municipality": "亀岡市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/11Yzp9-Yzl930evcg7KxOHuw_jt0H-G8v",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-11Yzp9-Yzl930evcg7KxOHuw_jt0H-G8v.html"
+    },
+    {
+      "id": "folder-1NAR9WS0eVSUpVa9VVRYz-rRRyWq-Coyh",
+      "title": "大田区",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "東京都",
+      "municipality": "大田区",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1NAR9WS0eVSUpVa9VVRYz-rRRyWq-Coyh",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1NAR9WS0eVSUpVa9VVRYz-rRRyWq-Coyh.html"
+    },
+    {
+      "id": "folder-1GU8Vrc-JadTr-5M-xlU6OIDZaow51IDc",
+      "title": "鹿児島市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1GU8Vrc-JadTr-5M-xlU6OIDZaow51IDc",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1GU8Vrc-JadTr-5M-xlU6OIDZaow51IDc.html"
+    },
+    {
+      "id": "folder-1t0BgWKwp6JzonMx5Yw8jizpNFgYRZPFw",
+      "title": "豊橋市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "愛知県",
+      "municipality": "豊橋市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1t0BgWKwp6JzonMx5Yw8jizpNFgYRZPFw",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1t0BgWKwp6JzonMx5Yw8jizpNFgYRZPFw.html"
+    },
+    {
+      "id": "folder-10AxRiidAdSMyNQyUAcdZdNsE8VZ1lHoS",
+      "title": "扶桑町",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "愛知県",
+      "municipality": "扶桑町",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/10AxRiidAdSMyNQyUAcdZdNsE8VZ1lHoS",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-10AxRiidAdSMyNQyUAcdZdNsE8VZ1lHoS.html"
+    },
+    {
+      "id": "folder-1S5IgDlxkZOdzN4GMclSYxBHIjV18vORF",
+      "title": "相模原",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "神奈川県",
+      "municipality": "相模原",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1S5IgDlxkZOdzN4GMclSYxBHIjV18vORF",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1S5IgDlxkZOdzN4GMclSYxBHIjV18vORF.html"
+    },
+    {
+      "id": "folder-1C_XUl1swUoyv6DIM1tedy7GhWkBwKKnS",
+      "title": "仙台市",
+      "kind": "folder",
+      "sourceGroup": "全国・自治体別資料フォルダ",
+      "prefecture": "宮城県",
+      "municipality": "仙台市",
+      "school": "",
+      "url": "https://drive.google.com/drive/folders/1C_XUl1swUoyv6DIM1tedy7GhWkBwKKnS",
+      "preview": "",
+      "tags": [
+        "自治体別資料"
+      ],
+      "checkPoints": "自治体・学校別に資料名を確認し、必要なPDF本文へ進みます。",
+      "note": "フォルダ名にもとづく目録です。個別PDFの本文確認は各資料で行います。",
+      "detail": "record-folder-1C_XUl1swUoyv6DIM1tedy7GhWkBwKKnS.html"
+    },
+    {
+      "id": "kuki-1c2DGAlesfBv0NFDOBkS2XwRpqjrhKbZP",
+      "title": "030　 鷲宮東中学校20260328_23395959.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "鷲宮東中学校",
+      "url": "https://drive.google.com/file/d/1c2DGAlesfBv0NFDOBkS2XwRpqjrhKbZP/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1c2DGAlesfBv0NFDOBkS2XwRpqjrhKbZP/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1c2DGAlesfBv0NFDOBkS2XwRpqjrhKbZP.html"
+    },
+    {
+      "id": "kuki-1VwMwJxw-VowKjDpKiKzoeyg5Do2BITd6",
+      "title": "020　砂原小学校20260328_21451347.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "砂原小学校",
+      "url": "https://drive.google.com/file/d/1VwMwJxw-VowKjDpKiKzoeyg5Do2BITd6/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1VwMwJxw-VowKjDpKiKzoeyg5Do2BITd6/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1VwMwJxw-VowKjDpKiKzoeyg5Do2BITd6.html"
+    },
+    {
+      "id": "kuki-1E7b7t9K93EHtciyDEKuxNTu-hy4Fun2K",
+      "title": "022　久喜中学校20260328_21535335.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜中学校",
+      "url": "https://drive.google.com/file/d/1E7b7t9K93EHtciyDEKuxNTu-hy4Fun2K/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1E7b7t9K93EHtciyDEKuxNTu-hy4Fun2K/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1E7b7t9K93EHtciyDEKuxNTu-hy4Fun2K.html"
+    },
+    {
+      "id": "kuki-17c7as9uDIsv5gLYa6qICw-y5Ei4mzXQB",
+      "title": "025　菖蒲中中学校20260328_23212146.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "菖蒲中中学校",
+      "url": "https://drive.google.com/file/d/17c7as9uDIsv5gLYa6qICw-y5Ei4mzXQB/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/17c7as9uDIsv5gLYa6qICw-y5Ei4mzXQB/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-17c7as9uDIsv5gLYa6qICw-y5Ei4mzXQB.html"
+    },
+    {
+      "id": "kuki-1Myc5CRP724Jr3ZbVhePzXqVXRe8Gy1yw",
+      "title": "028 　栗橋西中学校20260328_23355137.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西中学校",
+      "url": "https://drive.google.com/file/d/1Myc5CRP724Jr3ZbVhePzXqVXRe8Gy1yw/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1Myc5CRP724Jr3ZbVhePzXqVXRe8Gy1yw/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1Myc5CRP724Jr3ZbVhePzXqVXRe8Gy1yw.html"
+    },
+    {
+      "id": "kuki-1FOKoe9QnRgfqZ-k2qBbiyjO7r7E_6heN",
+      "title": "028 　栗橋西中学校20260328_23385861.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西中学校",
+      "url": "https://drive.google.com/file/d/1FOKoe9QnRgfqZ-k2qBbiyjO7r7E_6heN/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1FOKoe9QnRgfqZ-k2qBbiyjO7r7E_6heN/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1FOKoe9QnRgfqZ-k2qBbiyjO7r7E_6heN.html"
+    },
+    {
+      "id": "kuki-1vZKbagN_OzK_aGko6ObbwKzvuwPnzcye",
+      "title": "031　 鷲宮西中学校20260328_23452097.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "鷲宮西中学校",
+      "url": "https://drive.google.com/file/d/1vZKbagN_OzK_aGko6ObbwKzvuwPnzcye/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1vZKbagN_OzK_aGko6ObbwKzvuwPnzcye/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1vZKbagN_OzK_aGko6ObbwKzvuwPnzcye.html"
+    },
+    {
+      "id": "kuki-1rNeSeifmI3OcQCBEfPMvuG_ydyvQIV8M",
+      "title": "028 　栗橋西中学校20260328_23425619.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西中学校",
+      "url": "https://drive.google.com/file/d/1rNeSeifmI3OcQCBEfPMvuG_ydyvQIV8M/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1rNeSeifmI3OcQCBEfPMvuG_ydyvQIV8M/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1rNeSeifmI3OcQCBEfPMvuG_ydyvQIV8M.html"
+    },
+    {
+      "id": "kuki-1L7vZi5Pm6mtpQbgdz8DXoFYxvlgQclKo",
+      "title": "028 　栗橋西中学校20260328_23335769.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西中学校",
+      "url": "https://drive.google.com/file/d/1L7vZi5Pm6mtpQbgdz8DXoFYxvlgQclKo/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1L7vZi5Pm6mtpQbgdz8DXoFYxvlgQclKo/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1L7vZi5Pm6mtpQbgdz8DXoFYxvlgQclKo.html"
+    },
+    {
+      "id": "kuki-18QDBos6d_iaWaK-GbaC7jjkCkpe3nO5m",
+      "title": "029 　鷲宮中学校20260328_23272310.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "鷲宮中学校",
+      "url": "https://drive.google.com/file/d/18QDBos6d_iaWaK-GbaC7jjkCkpe3nO5m/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/18QDBos6d_iaWaK-GbaC7jjkCkpe3nO5m/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-18QDBos6d_iaWaK-GbaC7jjkCkpe3nO5m.html"
+    },
+    {
+      "id": "kuki-10ttW39Qz3VqRZKhCvS4aKR9ecZOfqjpW",
+      "title": "028　 栗橋西中学校20260328_23252827.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西中学校",
+      "url": "https://drive.google.com/file/d/10ttW39Qz3VqRZKhCvS4aKR9ecZOfqjpW/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/10ttW39Qz3VqRZKhCvS4aKR9ecZOfqjpW/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-10ttW39Qz3VqRZKhCvS4aKR9ecZOfqjpW.html"
+    },
+    {
+      "id": "kuki-1pwMl_9cfbVweQWv-Hvt8W8CmRUUxEkvk",
+      "title": "027 　栗橋東中中学校20260328_23230771.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋東中中学校",
+      "url": "https://drive.google.com/file/d/1pwMl_9cfbVweQWv-Hvt8W8CmRUUxEkvk/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1pwMl_9cfbVweQWv-Hvt8W8CmRUUxEkvk/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1pwMl_9cfbVweQWv-Hvt8W8CmRUUxEkvk.html"
+    },
+    {
+      "id": "kuki-1KZ66udv8pzTI9OGDzwem_Q5JHqj9VC8Y",
+      "title": "026　大東中学校20260328_23182749.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "大東中学校",
+      "url": "https://drive.google.com/file/d/1KZ66udv8pzTI9OGDzwem_Q5JHqj9VC8Y/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1KZ66udv8pzTI9OGDzwem_Q5JHqj9VC8Y/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1KZ66udv8pzTI9OGDzwem_Q5JHqj9VC8Y.html"
+    },
+    {
+      "id": "kuki-17V7uIWKObDEQTHc116egvjLU-k3f_u2N",
+      "title": "024　久喜東中学校20260328_23163852.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜東中学校",
+      "url": "https://drive.google.com/file/d/17V7uIWKObDEQTHc116egvjLU-k3f_u2N/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/17V7uIWKObDEQTHc116egvjLU-k3f_u2N/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-17V7uIWKObDEQTHc116egvjLU-k3f_u2N.html"
+    },
+    {
+      "id": "kuki-18q5cS2EAAB08WYv5UoBCwJcXAJJIGYiY",
+      "title": "023　久喜波中学校20260328_23085081.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜波中学校",
+      "url": "https://drive.google.com/file/d/18q5cS2EAAB08WYv5UoBCwJcXAJJIGYiY/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/18q5cS2EAAB08WYv5UoBCwJcXAJJIGYiY/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-18q5cS2EAAB08WYv5UoBCwJcXAJJIGYiY.html"
+    },
+    {
+      "id": "kuki-1GLvIoU0UpztZNZBI5SCOY1Np0DcoYXqz",
+      "title": "023　久喜南中学校20260328_23080883.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜南中学校",
+      "url": "https://drive.google.com/file/d/1GLvIoU0UpztZNZBI5SCOY1Np0DcoYXqz/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1GLvIoU0UpztZNZBI5SCOY1Np0DcoYXqz/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1GLvIoU0UpztZNZBI5SCOY1Np0DcoYXqz.html"
+    },
+    {
+      "id": "kuki-1Jn5jt-YQMzsNzzlbMtzK2Z8LVSpEZLVt",
+      "title": "020　砂原小学校20260328_21503885.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "砂原小学校",
+      "url": "https://drive.google.com/file/d/1Jn5jt-YQMzsNzzlbMtzK2Z8LVSpEZLVt/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1Jn5jt-YQMzsNzzlbMtzK2Z8LVSpEZLVt/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1Jn5jt-YQMzsNzzlbMtzK2Z8LVSpEZLVt.html"
+    },
+    {
+      "id": "kuki-1VQZYiEhKfqtxR8cIuFOgNNWKEyfmLK_V",
+      "title": "019　桜田小学校20260328_21434084.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "桜田小学校",
+      "url": "https://drive.google.com/file/d/1VQZYiEhKfqtxR8cIuFOgNNWKEyfmLK_V/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1VQZYiEhKfqtxR8cIuFOgNNWKEyfmLK_V/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1VQZYiEhKfqtxR8cIuFOgNNWKEyfmLK_V.html"
+    },
+    {
+      "id": "kuki-1K9dZky2X-VF-dCCwvnfruqls-UMg8ag2",
+      "title": "018　鷲宮小学校20260326_00090780.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "鷲宮小学校",
+      "url": "https://drive.google.com/file/d/1K9dZky2X-VF-dCCwvnfruqls-UMg8ag2/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1K9dZky2X-VF-dCCwvnfruqls-UMg8ag2/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1K9dZky2X-VF-dCCwvnfruqls-UMg8ag2.html"
+    },
+    {
+      "id": "kuki-1_Yx1bSxnZ9OX7NNZot81n8Z6VrdCpkp1",
+      "title": "017　栗橋小学校20260326_00074594.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋小学校",
+      "url": "https://drive.google.com/file/d/1_Yx1bSxnZ9OX7NNZot81n8Z6VrdCpkp1/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1_Yx1bSxnZ9OX7NNZot81n8Z6VrdCpkp1/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1_Yx1bSxnZ9OX7NNZot81n8Z6VrdCpkp1.html"
+    },
+    {
+      "id": "kuki-1ii8FgP_mG2NwpOZUYm6_NcX6jUE7exPU",
+      "title": "014　菖蒲東小学校20260326_00042061.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "菖蒲東小学校",
+      "url": "https://drive.google.com/file/d/1ii8FgP_mG2NwpOZUYm6_NcX6jUE7exPU/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1ii8FgP_mG2NwpOZUYm6_NcX6jUE7exPU/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1ii8FgP_mG2NwpOZUYm6_NcX6jUE7exPU.html"
+    },
+    {
+      "id": "kuki-1EMeFlGbyqQgfKmJddAl0GFuKRZrpYYvp",
+      "title": "016　栗橋南小学校20260326_00062771.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋南小学校",
+      "url": "https://drive.google.com/file/d/1EMeFlGbyqQgfKmJddAl0GFuKRZrpYYvp/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1EMeFlGbyqQgfKmJddAl0GFuKRZrpYYvp/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1EMeFlGbyqQgfKmJddAl0GFuKRZrpYYvp.html"
+    },
+    {
+      "id": "kuki-16JufouKTi06roQ_9BD3SzwmJepT0lwOr",
+      "title": "015　栗橋西小学校20260326_00052590.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栗橋西小学校",
+      "url": "https://drive.google.com/file/d/16JufouKTi06roQ_9BD3SzwmJepT0lwOr/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/16JufouKTi06roQ_9BD3SzwmJepT0lwOr/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-16JufouKTi06roQ_9BD3SzwmJepT0lwOr.html"
+    },
+    {
+      "id": "kuki-1AAZul9MBie1zg1xSb7l7Y7GZztefwi4f",
+      "title": "014　菖蒲小学校20260326_00013259.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "菖蒲小学校",
+      "url": "https://drive.google.com/file/d/1AAZul9MBie1zg1xSb7l7Y7GZztefwi4f/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1AAZul9MBie1zg1xSb7l7Y7GZztefwi4f/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1AAZul9MBie1zg1xSb7l7Y7GZztefwi4f.html"
+    },
+    {
+      "id": "kuki-1i3bZyszukpUXu_4YmmI_ubCeh9mfJ83b",
+      "title": "013　栢間小学校20260325_23583362.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "栢間小学校",
+      "url": "https://drive.google.com/file/d/1i3bZyszukpUXu_4YmmI_ubCeh9mfJ83b/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1i3bZyszukpUXu_4YmmI_ubCeh9mfJ83b/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1i3bZyszukpUXu_4YmmI_ubCeh9mfJ83b.html"
+    },
+    {
+      "id": "kuki-13Kmgdy19jcvhMeCMibZbtKS_qvbULF6D",
+      "title": "011　小林小学校20260325_23572415.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "小林小学校",
+      "url": "https://drive.google.com/file/d/13Kmgdy19jcvhMeCMibZbtKS_qvbULF6D/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/13Kmgdy19jcvhMeCMibZbtKS_qvbULF6D/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-13Kmgdy19jcvhMeCMibZbtKS_qvbULF6D.html"
+    },
+    {
+      "id": "kuki-1JYUiHQ6WpbJw4bm-bhVeUk47NSjAf4NS",
+      "title": "009　江面小学校20260325_23554673.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "江面小学校",
+      "url": "https://drive.google.com/file/d/1JYUiHQ6WpbJw4bm-bhVeUk47NSjAf4NS/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1JYUiHQ6WpbJw4bm-bhVeUk47NSjAf4NS/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1JYUiHQ6WpbJw4bm-bhVeUk47NSjAf4NS.html"
+    },
+    {
+      "id": "kuki-1RwEveyJ1344ghcbpuYLVoEb1waTY4GYC",
+      "title": "008　久喜北小学校20260325_23532253.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜北小学校",
+      "url": "https://drive.google.com/file/d/1RwEveyJ1344ghcbpuYLVoEb1waTY4GYC/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1RwEveyJ1344ghcbpuYLVoEb1waTY4GYC/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1RwEveyJ1344ghcbpuYLVoEb1waTY4GYC.html"
+    },
+    {
+      "id": "kuki-1zPpyZkX_LfxurZeOV9I-OTVEuiN2Uqyi",
+      "title": "007　久喜東小学校20260325_23513451.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "久喜東小学校",
+      "url": "https://drive.google.com/file/d/1zPpyZkX_LfxurZeOV9I-OTVEuiN2Uqyi/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1zPpyZkX_LfxurZeOV9I-OTVEuiN2Uqyi/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1zPpyZkX_LfxurZeOV9I-OTVEuiN2Uqyi.html"
+    },
+    {
+      "id": "kuki-1gjgEJNUtNEsJ1kec_jh3b51pjNchb1Sa",
+      "title": "006　青毛小学校20260325_23413446.pdf",
+      "kind": "pdf",
+      "sourceGroup": "久喜市 学校別PTA関連資料",
+      "prefecture": "埼玉県",
+      "municipality": "久喜市",
+      "school": "青毛小学校",
+      "url": "https://drive.google.com/file/d/1gjgEJNUtNEsJ1kec_jh3b51pjNchb1Sa/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1gjgEJNUtNEsJ1kec_jh3b51pjNchb1Sa/preview",
+      "tags": [
+        "学校配布・学校関与"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-kuki-1gjgEJNUtNEsJ1kec_jh3b51pjNchb1Sa.html"
+    },
+    {
+      "id": "saitama-1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC",
+      "title": "（部分開示）９【秩父特支】R6年入学説明会の資料.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "秩父特支",
+      "url": "https://drive.google.com/file/d/1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "部分開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC.html",
+      "localPdf": "materials/documents/saitama/1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC",
+      "sizeBytes": 9051642,
+      "driveUrl": "https://drive.google.com/file/d/1QRURVMyopJEdWnq0RmxLq4rYgnz7iYOC/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr",
+      "title": "（部分開示）８【入間わかくさ】R6加入関係文書.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "入間わかくさ",
+      "url": "https://drive.google.com/file/d/1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr/preview",
+      "tags": [
+        "入会・同意",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr.html",
+      "localPdf": "materials/documents/saitama/1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr",
+      "sizeBytes": 199118,
+      "driveUrl": "https://drive.google.com/file/d/1J6SLOKUgRTsHK-E4OFj0A6ptnVv9Z3zr/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i",
+      "title": "（部分開示）７【川口特支】R６PTA加入の御案内.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "川口特支",
+      "url": "https://drive.google.com/file/d/1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i/preview",
+      "tags": [
+        "入会・同意",
+        "学校配布・学校関与",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法／文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i.html",
+      "localPdf": "materials/documents/saitama/1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i",
+      "sizeBytes": 399667,
+      "driveUrl": "https://drive.google.com/file/d/1f5xpdH8x2ml2KHipe6gRFFohDbV8xO2i/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1FKA487OKyRiI4bDFeD1OED1RglkdADlp",
+      "title": "（部分開示）６【久喜（全）】R6入学生のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "久喜（全）",
+      "url": "https://drive.google.com/file/d/1FKA487OKyRiI4bDFeD1OED1RglkdADlp/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1FKA487OKyRiI4bDFeD1OED1RglkdADlp/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "部分開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1FKA487OKyRiI4bDFeD1OED1RglkdADlp.html",
+      "localPdf": "materials/documents/saitama/1FKA487OKyRiI4bDFeD1OED1RglkdADlp.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1FKA487OKyRiI4bDFeD1OED1RglkdADlp",
+      "sizeBytes": 3682118,
+      "driveUrl": "https://drive.google.com/file/d/1FKA487OKyRiI4bDFeD1OED1RglkdADlp/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1",
+      "title": "（部分開示）５【春日部工業】PTA・後援会入会同意書.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "春日部工業",
+      "url": "https://drive.google.com/file/d/1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1/preview",
+      "tags": [
+        "入会・同意",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1.html",
+      "localPdf": "materials/documents/saitama/1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1",
+      "sizeBytes": 152642,
+      "driveUrl": "https://drive.google.com/file/d/1-C0mC2gMYQzunk-B7T0hjH6a6Rgvyfr1/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS",
+      "title": "（部分開示）４【春日部女子】【R６年度入学生用】ＰＴＡ・後援会のご説明とご入会のお願い.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "春日部女子",
+      "url": "https://drive.google.com/file/d/1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS/preview",
+      "tags": [
+        "入会・同意",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS.html",
+      "localPdf": "materials/documents/saitama/1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS",
+      "sizeBytes": 139252,
+      "driveUrl": "https://drive.google.com/file/d/1aNBIJyWw5ox2VJvrJ2XesoG_fnKqqPVS/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM",
+      "title": "（部分開示）３【新座】入会意思確認書.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "新座",
+      "url": "https://drive.google.com/file/d/1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM/preview",
+      "tags": [
+        "入会・同意",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM.html",
+      "localPdf": "materials/documents/saitama/1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM",
+      "sizeBytes": 108682,
+      "driveUrl": "https://drive.google.com/file/d/1I88EGcnWJOnXFLJ1N6fnf6mPLpGKrYgM/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA",
+      "title": "（部分開示）２【浦和商業高校】R6「ＰTＡ後援会入会及びＰＴＡ理事選出のお願い」.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "浦和商業高校",
+      "url": "https://drive.google.com/file/d/1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA/preview",
+      "tags": [
+        "入会・同意",
+        "役員選出",
+        "学校配布・学校関与",
+        "部分開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法／対象者の範囲、家庭事情の記載、強制性の有無／文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA.html",
+      "localPdf": "materials/documents/saitama/1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA",
+      "sizeBytes": 28822,
+      "driveUrl": "https://drive.google.com/file/d/1oYWFi60Cx4Jw2_QrvIkfCATfD6B-O4PA/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD",
+      "title": "（部分開示）１【浦和一女（全）】R6入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "浦和一女（全）",
+      "url": "https://drive.google.com/file/d/1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "部分開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD.html",
+      "localPdf": "materials/documents/saitama/1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD",
+      "sizeBytes": 6325346,
+      "driveUrl": "https://drive.google.com/file/d/1lQsxlOlHDvzp74YhGM7u_h9Z8jPiMlsD/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ",
+      "title": "（全部開示）10【松伏高校】R6_入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "松伏高校",
+      "url": "https://drive.google.com/file/d/17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ.html",
+      "localPdf": "materials/documents/saitama/17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ",
+      "sizeBytes": 7182839,
+      "driveUrl": "https://drive.google.com/file/d/17ocEUczw_C8uYtJ-wMi__xQ3vHVNwSLZ/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK",
+      "title": "（全部開示）９【白岡】（追加）加入関係文書(R6).pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "白岡",
+      "url": "https://drive.google.com/file/d/1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK/preview",
+      "tags": [
+        "入会・同意",
+        "全部開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK.html",
+      "localPdf": "materials/documents/saitama/1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK",
+      "sizeBytes": 45335,
+      "driveUrl": "https://drive.google.com/file/d/1eenQgWAtOE-he-xO9n-B-7qrKYJmCcxK/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B",
+      "title": "（全部開示）８【久喜北陽】入学のしおり（令和６年度生）➁.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "久喜北陽",
+      "url": "https://drive.google.com/file/d/1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B.html",
+      "localPdf": "materials/documents/saitama/1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B",
+      "sizeBytes": 2587624,
+      "driveUrl": "https://drive.google.com/file/d/1yix8QOvCMBQas3gyvFDXdbY--VEXxl1B/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo",
+      "title": "（全部開示）８【久喜北陽】入学のしおり（令和６年度生）①.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "久喜北陽",
+      "url": "https://drive.google.com/file/d/1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo.html",
+      "localPdf": "materials/documents/saitama/1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo",
+      "sizeBytes": 4794150,
+      "driveUrl": "https://drive.google.com/file/d/1ybZOzpvkOoJgAw07piwMJ-y2bI58puMo/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX",
+      "title": "（全部開示）７【妻沼】Ｒ６入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "妻沼",
+      "url": "https://drive.google.com/file/d/1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX.html",
+      "localPdf": "materials/documents/saitama/1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX",
+      "sizeBytes": 17523583,
+      "driveUrl": "https://drive.google.com/file/d/1ETAJFy8iETwGLlhlO--WHnKFD2dw_FGX/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr",
+      "title": "（全部開示）６【鶴ヶ島清風】加入関係文書_令和６年度入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "鶴ヶ島清風",
+      "url": "https://drive.google.com/file/d/1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr/preview",
+      "tags": [
+        "入会・同意",
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法／文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr.html",
+      "localPdf": "materials/documents/saitama/1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr",
+      "sizeBytes": 10224106,
+      "driveUrl": "https://drive.google.com/file/d/1oATnAy89DSL4UfVrvkhpFUmj8SK1lDEr/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK",
+      "title": "（全部開示）５【越生高校】空調設備費など私費徴収金の支払い意思確認記録.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "越生高校",
+      "url": "https://drive.google.com/file/d/1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK/preview",
+      "tags": [
+        "入会・同意",
+        "会費・私費",
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法／請求主体、学校徴収金との混在、返金・同意記録／文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK.html",
+      "localPdf": "materials/documents/saitama/1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK",
+      "sizeBytes": 7977,
+      "driveUrl": "https://drive.google.com/file/d/1bflXw9rXxq34hGBBwLDPOkh2cAsdNWMK/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r",
+      "title": "（全部開示）４【川越西】加入関係文書.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "川越西",
+      "url": "https://drive.google.com/file/d/1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r/preview",
+      "tags": [
+        "入会・同意",
+        "全部開示"
+      ],
+      "checkPoints": "入会意思の確認方法、未提出者の扱い、退会方法",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r.html",
+      "localPdf": "materials/documents/saitama/1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r",
+      "sizeBytes": 5081374,
+      "driveUrl": "https://drive.google.com/file/d/1hzabHAFv8pzQcqULHf3U6LlLro-Gjt8r/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw",
+      "title": "（全部開示）３【川越】R06入学許可候補者説明会資料.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "川越",
+      "url": "https://drive.google.com/file/d/1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw/preview",
+      "tags": [
+        "全部開示"
+      ],
+      "checkPoints": "作成主体、文書名義、配布経路、該当論点",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw.html",
+      "localPdf": "materials/documents/saitama/1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw",
+      "sizeBytes": 7707916,
+      "driveUrl": "https://drive.google.com/file/d/1IObehPPu4E34A_hDhRLuUXhLlEf4m2Jw/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu",
+      "title": "（全部開示）２【鴻巣女子】６年度入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "鴻巣女子",
+      "url": "https://drive.google.com/file/d/1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu.html",
+      "localPdf": "materials/documents/saitama/1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu",
+      "sizeBytes": 1293971,
+      "driveUrl": "https://drive.google.com/file/d/1UAg_WQWGzlc8faE1U20uplQ-3DxkxPwu/view?usp=drivesdk"
+    },
+    {
+      "id": "saitama-1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz",
+      "title": "（全部開示）１【浦和一女（定）】R6入学のしおり.pdf",
+      "kind": "pdf",
+      "sourceGroup": "埼玉県 県立学校関係資料",
+      "prefecture": "埼玉県",
+      "municipality": "埼玉県",
+      "school": "浦和一女（定）",
+      "url": "https://drive.google.com/file/d/1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz/view?usp=drivesdk",
+      "preview": "https://drive.google.com/file/d/1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz/preview",
+      "tags": [
+        "学校配布・学校関与",
+        "全部開示"
+      ],
+      "checkPoints": "文書名義、配布・回収経路、学校側関与",
+      "note": "資料名にもとづく仮タグです。本文引用時はPDF本文と開示決定文書を確認します。",
+      "detail": "record-saitama-1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz.html",
+      "localPdf": "materials/documents/saitama/1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz.pdf",
+      "localPdfStatus": "site-copy",
+      "localPdfUpdated": "2026-05-13",
+      "sourceFileId": "1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz",
+      "sizeBytes": 480772,
+      "driveUrl": "https://drive.google.com/file/d/1gkWMnQlwCgWlF_9CU6hYenWk6tfDuMsz/view?usp=drivesdk"
+    }
+  ],
+  "localPdfCount": 20,
+  "localPdfGroups": [
+    {
+      "name": "埼玉県 県立学校関係資料",
+      "count": 20,
+      "path": "materials/documents/saitama/"
+    }
+  ]
+}

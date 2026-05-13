@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 2,
+  "updated": "2026-05-13",
+  "note": "公開用の資料登録ファイルです。収録PDFと外部資料フォルダを分けて登録しています。外部フォルダの資料を引用・提出する場合は、PDF本文・開示決定文書・公開範囲・個人情報処理を確認してください。",
+  "items": [
+    {
+      "id": "evidence-highlights-page",
+      "title": "実物資料で見るPTA問題",
+      "type": "サイト内資料入口",
+      "source": "PTA適正化推進委員会",
+      "year": "2026年",
+      "status": "公開ページ",
+      "file": "evidence-highlights.html",
+      "thumbnail": "",
+      "summary": "公文書開示請求等で入手したPTA関連実物資料を、入会・会費・個人情報・役員選出・学校関与の5分類で読む入口ページです。",
+      "issues": [
+        "実物資料",
+        "公文書開示",
+        "資料館"
+      ],
+      "analysis": "個別資料ページと原資料プレビューへ接続します。"
+    },
+    {
+      "id": "evidence-catalog-page",
+      "title": "実物資料カタログ",
+      "type": "サイト内目録",
+      "source": "PTA適正化推進委員会",
+      "year": "2026年",
+      "status": "公開ページ",
+      "file": "materials-catalog.html",
+      "thumbnail": "",
+      "summary": "全国各地のPTA関連資料を、資料名・学校名・自治体名・論点候補で探すためのサイト内目録です。",
+      "issues": [
+        "実物資料",
+        "資料館",
+        "入会",
+        "会費",
+        "学校関与"
+      ],
+      "analysis": "タグは資料名からの仮分類です。正式引用時はPDF本文と開示決定文書を確認します。"
+    },
+    {
+      "id": "doc-edu-board-school-shiori-v2",
+      "title": "PTA適正運営のしおり（教育委員会・学校用）第2版",
+      "type": "委員会作成資料 / PDF",
+      "source": "PTA適正化推進委員会",
+      "year": "令和7年9月",
+      "status": "収録済みPDF",
+      "file": "docs/pta_proper_operation_edu_board_school.pdf",
+      "thumbnail": "assets/materials/pta_proper_operation_edu_board_school-thumb.png",
+      "summary": "教育委員会・学校向けに、入退会の自由化、学校徴収金との分離、監査用チェックリスト等をまとめた実務手引です。",
+      "issues": [
+        "教育委員会",
+        "学校管理職",
+        "入退会",
+        "会費徴収",
+        "チェックリスト"
+      ],
+      "analysis": "委員会作成資料であり、個別事案の最終判断ではありません。引用時は該当箇所と根拠法令・原資料を合わせて確認します。"
+    },
+    {
+      "id": "doc-pta-work-and-duty",
+      "title": "PTA業務と「職務」",
+      "type": "委員会作成資料 / PDF",
+      "source": "PTA適正化推進委員会",
+      "year": "2026年",
+      "status": "収録済みPDF",
+      "file": "docs/pta_work_and_duty.pdf",
+      "thumbnail": "assets/materials/pta_work_and_duty-thumb.png",
+      "summary": "地方公務員法35条、教員の職務、PTA等任意団体事務の位置づけを整理した資料です。",
+      "issues": [
+        "職務専念義務",
+        "校務",
+        "PTA事務",
+        "任意団体",
+        "服務"
+      ],
+      "analysis": "PTA事務が公務・校務・渉外のどこに位置づけられるかを分けて確認するための資料です。"
+    },
+    {
+      "id": "doc-mext-24mka187",
+      "title": "文部科学省通知 24文科初第187号",
+      "type": "行政資料 / PDF",
+      "source": "文部科学省通知（収録PDF）",
+      "year": "平成24年5月9日",
+      "status": "収録済みPDF・外部原URL未突合",
+      "file": "docs/mext_24mka187.pdf",
+      "thumbnail": "assets/materials/mext_24mka187-thumb.png",
+      "summary": "学校関係団体が実施する事業に係る兼職兼業等の取扱い、学校における会計処理の適正化に関する通知です。",
+      "issues": [
+        "学校関係団体",
+        "兼職兼業",
+        "会計処理",
+        "地方財政法",
+        "施設利用"
+      ],
+      "analysis": "PDF本文は収録済みですが、公開時は文部科学省側の現行掲載URL又はアーカイブ資料との照合を推奨します。"
+    },
+    {
+      "id": "drive-saitama-pref-pta-docs",
+      "title": "埼玉県 県立学校PTA・後援会関係資料フォルダ",
+      "type": "外部Google Drive資料フォルダ",
+      "source": "PTA適正化推進委員会整理資料",
+      "year": "令和6年度資料等",
+      "status": "外部フォルダ（公開範囲はリンク先設定に依存）",
+      "file": "https://drive.google.com/drive/folders/1tBkWaC4-cI4tNloXaT6TKCrTnebhs0re",
+      "summary": "入会意思確認書、PTA・後援会入会同意書、加入関係文書、入学のしおり等を確認する入口です。",
+      "issues": [
+        "埼玉県",
+        "入会意思確認",
+        "PTA・後援会",
+        "入学のしおり"
+      ],
+      "analysis": "入会意思確認、会費徴収、後援会との一体運用、学校側関与の有無を資料ごとに確認します。"
+    },
+    {
+      "id": "drive-kuki-school-pta-docs",
+      "title": "久喜市 学校別PTA関連資料フォルダ",
+      "type": "外部Google Drive資料フォルダ",
+      "source": "PTA適正化推進委員会整理資料",
+      "year": "2026年整理",
+      "status": "外部フォルダ（公開範囲はリンク先設定に依存）",
+      "file": "https://drive.google.com/drive/folders/1CIrU8d-VVss8D-A7J-Gz6a7R-Losxs9R",
+      "summary": "小学校・中学校ごとにPDFが整理されたフォルダです。入学説明会資料、加入案内、学校配布文書等を学校別に確認する入口です。",
+      "issues": [
+        "久喜市",
+        "学校別",
+        "入会案内",
+        "学校配布文書"
+      ],
+      "analysis": "学校名、文書名、年度、配布・回収主体を確認し、加入・会費・個人情報・役員選出を分けて読みます。"
+    },
+    {
+      "id": "drive-national-pta-doc-folders",
+      "title": "全国・自治体別PTA関連資料フォルダ",
+      "type": "外部Google Drive資料フォルダ",
+      "source": "PTA適正化推進委員会整理資料",
+      "year": "随時更新",
+      "status": "外部フォルダ（公開範囲はリンク先設定に依存）",
+      "file": "https://drive.google.com/drive/folders/1tbfpjRNJIhwQypk1vsAOaE7_qwW-lrm5",
+      "summary": "神奈川県、埼玉県、久喜市、川口市、豊橋市、仙台市など、自治体・地域別に整理したPTA関連資料の入口です。",
+      "issues": [
+        "実物資料",
+        "自治体別",
+        "学校配布文書",
+        "開示資料"
+      ],
+      "analysis": "資料名だけで判断せず、PDF本文、作成主体、年度、開示決定文書、個人情報処理を確認します。"
+    },
+    {
+      "id": "data-board-responses-ui",
+      "title": "全国教育委員会回答DB",
+      "type": "回答DB / HTML",
+      "source": "data/board-responses-index.js から表示",
+      "year": "2026年",
+      "status": "公開用DB表示ページ",
+      "file": "responses.html",
+      "summary": "自治体名、質問類型、論点タグから教育委員会回答を確認するページです。",
+      "issues": [
+        "教育委員会回答",
+        "自治体別",
+        "質問類型",
+        "論点検索"
+      ],
+      "analysis": "回答本文を使う場合は、質問文・回答日・添付資料の有無を合わせて確認します。"
+    },
+    {
+      "id": "data-board-responses-source",
+      "title": "教育委員会回答DB 元データExcel",
+      "type": "回答DB / Excel",
+      "source": "data/pta-responses-source.xlsx",
+      "year": "2026年",
+      "status": "収録済みデータファイル",
+      "file": "data/pta-responses-source.xlsx",
+      "summary": "回答DBの元データとして収録されているExcelファイルです。",
+      "issues": [
+        "教育委員会回答",
+        "元データ",
+        "Excel",
+        "検証"
+      ],
+      "analysis": "引用用の完成資料ではなく、回答DB構築・検証のための元データとして扱います。"
+    },
+    {
+      "id": "kit-disclosure-request",
+      "title": "情報公開請求キット",
+      "type": "実務キット / HTML",
+      "source": "PTA適正化推進委員会",
+      "year": "2026年",
+      "status": "公開ページ",
+      "file": "disclosure-request-kit.html",
+      "summary": "PTA運営の実態確認に必要な開示請求項目を、会費、名簿、服務、校務分掌等の論点別に整理したページです。",
+      "issues": [
+        "開示請求",
+        "校務分掌",
+        "服務",
+        "会計",
+        "個人情報"
+      ],
+      "analysis": "手元に実物文書がない場合の追加調査入口として使います。自治体ごとの請求制度に合わせて調整が必要です。"
+    },
+    {
+      "id": "ledger-claim-evidence",
+      "title": "根拠対応表",
+      "type": "検証資料 / HTML",
+      "source": "PTA適正化推進委員会",
+      "year": "2026年",
+      "status": "公開ページ",
+      "file": "claim-evidence-ledger.html",
+      "summary": "主張、確認資料、根拠、注意点を対応させるためのページです。",
+      "issues": [
+        "根拠整理",
+        "引用",
+        "検証",
+        "論点対応"
+      ],
+      "analysis": "断定を避け、資料確認を前提にした説明へつなげるためのハブとして使います。"
+    }
+  ]
+}
